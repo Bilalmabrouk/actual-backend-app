@@ -1,0 +1,15 @@
+{
+  "name": "PerfumeApp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start"
+  },
+  "dependencies": {
+    "expo": "^48.0.0",
+    "react": "18.2.0",
+    "react-native": "0.71.8",
+    "i18n-js": "^4.2.0",
+    "expo-localization": "^14.0.0"
+  }
+}
